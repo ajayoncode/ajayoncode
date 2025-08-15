@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 I specialize in **AI/ML, multi-agent systems, and full-stack engineering**, with a passion for **secure, human-centric AI solutions**.  
 From **LLM-powered CRMs** to **real-time auction platforms**, I love creating products that are impactful, scalable, and future-ready.
 
@@ -38,4 +38,4 @@ From **LLM-powered CRMs** to **real-time auction platforms**, I love creating pr
 ## 📫 Let’s Connect  
 [LinkedIn](https://www.linkedin.com/in/ajayoncode/) | [Email](mailto:ajayoncode@gmail.com)  
 
-⭐ _“Code is my craft, AI is my brush, and products are my canvas.”_
+
