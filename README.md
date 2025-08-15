@@ -36,6 +36,6 @@ From **LLM-powered CRMs** to **real-time auction platforms**, I love creating pr
 ---
 
 ## 📫 Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/) | [Email](mailto:ajayoncode@gmail.com) | [GitHub](https://github.com/)  
+[LinkedIn](https://www.linkedin.com/in/ajayoncode/) | [Email](mailto:ajayoncode@gmail.com)  
 
 ⭐ _“Code is my craft, AI is my brush, and products are my canvas.”_
