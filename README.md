@@ -9,7 +9,7 @@
 I specialize in **AI/ML, multi-agent systems, and full-stack engineering**, with a passion for **secure, human-centric AI solutions**.  
 From **LLM-powered CRMs** to **real-time auction platforms**, I love creating products that are impactful, scalable, and future-ready.
 
-- 🔭 Currently working on **MeganOS** – a self-hosted AI productivity hub.  
+- 🔭 Currently working on **Megan** – a self-hosted AI productivity hub.  
 - 🌱 Learning advanced **AI orchestration** and **vector search optimization**.  
 - 💬 Ask me about **AI agents, FastAPI, React Native, LangChain, and RAG pipelines**.  
 - ♟ Fun fact: I treat chess like coding — strategic moves for long-term wins.
